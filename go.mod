@@ -1,4 +1,4 @@
-module hyrumcheck
+module github.com/malteehrlen/hyrum-check
 
 go 1.26.0
 

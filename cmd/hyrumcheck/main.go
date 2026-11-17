@@ -2,7 +2,7 @@
 package main
 
 import (
-	"hyrumcheck/hyrumcheck"
+	"github.com/malteehrlen/hyrum-check/hyrumcheck"
 
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
